@@ -1,2 +1,2 @@
 # delta
-This is Demon for git and github classs
+This is Demon for git and github classs.
